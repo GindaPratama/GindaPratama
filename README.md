@@ -19,8 +19,12 @@
 ##### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GindaPratama&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=GindaPratama&icon=2&color=1)](https://visitcount.itsvg.in)
+***
+
+<img src="https://raw.githubusercontent.com/GindaPratama/GindaPratama/output/snake.svg" alt="Snake animation" />
+
+***
+
 
   ### 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/GindaPratama) 
