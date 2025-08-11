@@ -1,5 +1,5 @@
 # Hello, I ' am Ginda Nugraha Pratama
-### I ' am a Programmer Junior 💻
+### Programmer Junior 💻
 
 
 ##### 🌐 Socials:
